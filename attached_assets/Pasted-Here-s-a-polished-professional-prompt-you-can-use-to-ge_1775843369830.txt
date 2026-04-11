@@ -1,0 +1,65 @@
+Here’s a polished, professional prompt you can use to generate a website chatbot for a tax consultancy business:
+
+---
+
+**Prompt:**
+
+Design and develop an intelligent, user-friendly website chatbot for a professional tax consultancy firm. The chatbot should assist visitors with tax-related inquiries, provide general guidance, and help convert leads into clients.
+
+**Key Requirements:**
+
+1. **Purpose & Functionality:**
+
+   * Answer frequently asked questions about personal and business taxes, tax filing, compliance, and regulations.
+   * Provide general guidance on services such as income tax filing, VAT/GST, corporate tax, auditing, and financial advisory.
+   * Clearly state that responses are for informational purposes only and not a substitute for professional tax advice.
+   * Collect user information (name, email, phone, query) for follow-up by human consultants.
+   * Offer appointment booking or consultation scheduling.
+
+2. **Tone & Personality:**
+
+   * Professional, trustworthy, and polite.
+   * Clear and concise, avoiding overly technical jargon unless necessary.
+   * Reassuring and helpful, especially for users who may be stressed about tax issues.
+
+3. **User Experience:**
+
+   * Quick response time with conversational flow.
+   * Use guided prompts (e.g., “What do you need help with today?”).
+   * Provide quick-reply buttons such as:
+
+     * “File my taxes”
+     * “Business tax services”
+     * “Tax deadlines”
+     * “Speak to an expert”
+
+4. **Capabilities:**
+
+   * Multi-step conversation handling (e.g., gathering details for tax filing).
+   * Ability to escalate complex queries to a human agent.
+   * Support for multilingual interaction (if applicable).
+   * Integration-ready with CRM or email systems.
+
+5. **Compliance & Security:**
+
+   * Avoid requesting or storing highly sensitive financial data directly in chat.
+   * Include privacy notice and data usage disclaimer.
+   * Ensure compliance with relevant tax and data protection laws.
+
+6. **Example Conversation:**
+
+   * User: “When is the tax filing deadline?”
+   * Bot: “The tax filing deadline depends on your country and filing type. Could you tell me your location so I can provide accurate information?”
+
+7. **Technical Expectations:**
+
+   * Compatible with modern web frameworks.
+   * Easy to integrate into existing websites.
+   * Scalable and maintainable architecture.
+
+**Goal:**
+Create a chatbot that enhances customer engagement, simplifies access to tax information, and increases consultation bookings while maintaining a high standard of professionalism and compliance.
+
+---
+
+If you want, I can tailor this prompt specifically for your country (e.g., Nepal, US, UK) or for a specific platform like Dialogflow, ChatGPT API, or WhatsApp chatbot.

@@ -1,0 +1,74 @@
+Act as a professional web designer and UX/UI expert. Design a modern, clean, and dynamic website for a tax consultancy firm.
+
+The website should reflect trust, professionalism, and financial expertise while maintaining a visually engaging and user-friendly experience.
+
+Include the following sections and features:
+
+1. Hero Section:
+
+* Strong headline (e.g., “Smart Tax Solutions for Individuals & Businesses”)
+* Subheading highlighting expertise and reliability
+* Clear CTA buttons like “Book Consultation” and “Get Started”
+* Background with subtle financial-themed graphics or abstract patterns
+
+2. About Section:
+
+* Brief introduction of the firm
+* Highlight years of experience, certifications, and expertise
+* Professional tone with trust-building elements
+
+3. Services Section:
+
+* Corporate Tax Filing
+* Personal Tax Planning
+* GST/VAT Consulting
+* Audit & Compliance
+* Use icons and card-based layout for clarity
+
+4. Why Choose Us:
+
+* Bullet points with key strengths (accuracy, compliance, fast service, expert advisors)
+* Add stats (e.g., “500+ Clients”, “10+ Years Experience”)
+
+5. Testimonials:
+
+* Client feedback with names and roles
+* Clean slider or card format
+
+6. Contact Section:
+
+* Simple contact form (Name, Email, Message)
+* Office location, phone number, and email
+* CTA for scheduling consultation
+
+7. Footer:
+
+* Quick links
+* Social media icons
+* Legal info (privacy policy, terms)
+
+Design Guidelines:
+
+* Use a professional color palette (navy blue, white, gold or green accents)
+* Clean typography with strong hierarchy
+* Plenty of whitespace for clarity
+* Subtle animations (hover effects, smooth scrolling)
+* Fully responsive (mobile-first design)
+* Use modern UI components (cards, grids, icons)
+
+Tone:
+
+* Professional, trustworthy, and approachable
+* Avoid clutter, keep layout minimal but impactful
+
+Optional Enhancements:
+
+* Dashboard-style visuals or financial charts
+* Sticky navigation bar
+* Live chat or chatbot integration
+
+Output:
+
+* Provide layout structure, UI suggestions, and sample content for each section
+* Suggest font pairings and color palette with hex codes
+* Include UX improvements for conversion optimization
