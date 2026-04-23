@@ -40,7 +40,7 @@ const ContactPreview = () => {
       `Enquiry from ${formData.name} — ${formData.service}`,
     );
     const body = encodeURIComponent(
-      `Hello Tax Clarity Nepal,\n\n` +
+      `Hello TaxCare Nepal,\n\n` +
         `Name: ${formData.name}\n` +
         `Email: ${formData.email}\n` +
         `Phone: ${formData.phone}\n` +
@@ -48,11 +48,11 @@ const ContactPreview = () => {
         `Message:\n${formData.message}`,
     );
 
-    window.location.href = `mailto:info@taxclarity.com.np?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:info@TaxCare.com.np?subject=${subject}&body=${body}`;
 
     toast({
       title: "Opening your email client",
-      description: "Your message is ready to send to info@taxclarity.com.np",
+      description: "Your message is ready to send to info@TaxCare.com.np",
     });
   };
 

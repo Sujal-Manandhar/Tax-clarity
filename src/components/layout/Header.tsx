@@ -57,7 +57,7 @@ const Header = () => {
                 <span className="text-lg font-bold text-primary-foreground">TC</span>
               </div>
               <div className="flex flex-col">
-                <span className="text-base font-bold text-foreground leading-tight">Tax Clarity Nepal</span>
+                <span className="text-base font-bold text-foreground leading-tight">TaxCare Nepal</span>
                 <span className="text-xs text-muted-foreground">Kathmandu, Nepal</span>
               </div>
             </Link>
@@ -199,7 +199,7 @@ const Header = () => {
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
               <span className="font-bold text-primary-foreground">TC</span>
             </div>
-            <span className="font-bold text-foreground">Tax Clarity Nepal</span>
+            <span className="font-bold text-foreground">TaxCare Nepal</span>
           </Link>
           <button
             onClick={() => setIsOpen(false)}

@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="container-custom">
           <div className="mx-auto max-w-3xl text-center mb-12">
             <h1 className="text-4xl font-bold text-foreground md:text-5xl mb-4">
-              Contact Tax Clarity Nepal
+              Contact TaxCare Nepal
             </h1>
             <p className="text-lg text-muted-foreground">
               Get a consultation and stay compliant with confidence.
@@ -45,10 +45,10 @@ const Contact = () => {
                   <li className="flex items-center gap-3">
                     <Mail className="h-5 w-5 text-primary" />
                     <a
-                      href="mailto:info@taxclarity.com.np"
+                      href="mailto:info@TaxCare.com.np"
                       className="text-muted-foreground hover:text-primary"
                     >
-                      info@taxclarity.com.np
+                      info@TaxCare.com.np
                     </a>
                   </li>
                   <li className="flex items-start gap-3">
@@ -68,7 +68,7 @@ const Contact = () => {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Tax Clarity Nepal Office Location"
+                  title="TaxCare Nepal Office Location"
                 ></iframe>
                 <a
                   href="https://share.google/t8pjJxbJnT58wnafe"

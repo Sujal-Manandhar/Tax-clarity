@@ -16,13 +16,17 @@ const Layout = ({ children }: LayoutProps) => {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Header />
-      {!isHomePage && <Breadcrumb />}
+      <div className="print:hidden">
+        <Header />
+        {!isHomePage && <Breadcrumb />}
+      </div>
       <main className="flex-1">{children}</main>
-      <Footer />
-      <WhatsAppButton />
-      <ScrollToTop />
-      <ChatWidget />
+      <div className="print:hidden">
+        <Footer />
+        <WhatsAppButton />
+        <ScrollToTop />
+        <ChatWidget />
+      </div>
     </div>
   );
 };

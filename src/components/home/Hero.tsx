@@ -1,10 +1,17 @@
 import { Link } from "react-router-dom";
-import { ArrowRight, Shield, Clock, CheckCircle, ChevronDown } from "lucide-react";
+import { ArrowRight, Shield, Clock, CheckCircle, ChevronDown, Calculator } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
   const handleScrollDown = () => {
     window.scrollTo({ top: window.innerHeight, behavior: "smooth" });
+  };
+
+  const scrollToCalculator = () => {
+    const el = document.getElementById("tax-calculator");
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth" });
+    }
   };
 
   return (
@@ -70,6 +77,15 @@ const Hero = () => {
               className="gap-2 border-white/40 bg-white/10 text-white backdrop-blur-sm hover:bg-white/20 hover:text-white"
             >
               <Link to="/services">Explore Services</Link>
+            </Button>
+            <Button
+              onClick={scrollToCalculator}
+              variant="outline"
+              size="lg"
+              className="gap-2 border-white/40 bg-white/10 text-white backdrop-blur-sm hover:bg-white/20 hover:text-white"
+            >
+              <Calculator className="h-4 w-4" />
+              Tax Calculator
             </Button>
           </div>
 

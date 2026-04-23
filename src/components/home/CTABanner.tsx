@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { useScrollAnimation } from "@/hooks/use-scroll-animation";
 
 const WHATSAPP_NUMBER = "9779823405140";
-const WHATSAPP_MESSAGE = encodeURIComponent("Hello! I'd like to get expert tax help from Tax Clarity Nepal.");
+const WHATSAPP_MESSAGE = encodeURIComponent("Hello! I'd like to get expert tax help from TaxCare Nepal.");
 
 const CTABanner = () => {
   const { ref, isVisible } = useScrollAnimation();

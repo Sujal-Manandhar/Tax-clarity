@@ -46,7 +46,7 @@ const WhyChooseUs = () => {
             Why Choose Us
           </div>
           <h2 className="mb-4 text-3xl font-bold text-foreground md:text-4xl">
-            Why Tax Clarity Nepal
+            Why TaxCare Nepal
           </h2>
           <p className="text-lg text-muted-foreground">
             We're committed to making tax and compliance simple, so you can focus on what matters — growing your business.

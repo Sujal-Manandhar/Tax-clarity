@@ -43,7 +43,7 @@ export const blogPosts: BlogPostData[] = [
       <div className="space-y-6">
         <p>Understanding exactly how your <strong>tax in Nepal</strong> is calculated is absolutely critical for professionals, gig workers, and corporations. The Inland Revenue Department (IRD) sets new tax brackets each fiscal year. For 2080/81 (2024), the rules dictate exactly how your final <strong>income tax in Nepal</strong> scales with your earnings.</p>
         
-        <p>Are you struggling to calculate your exact tax bracket? Don't risk IRD penalties with DIY tax filings. <Link to="/contact" className="text-primary font-bold hover:underline">Contact Tax Clarity Nepal</Link> to let professional Chartered Accountants handle your returns seamlessly.</p>
+        <p>Are you struggling to calculate your exact tax bracket? Don't risk IRD penalties with DIY tax filings. <Link to="/contact" className="text-primary font-bold hover:underline">Contact TaxCare Nepal</Link> to let professional Chartered Accountants handle your returns seamlessly.</p>
         
         <p>By complying legally with these rates, you prevent massive penalties. To maximize exemptions, be sure to read our <Link to="/resources/corporate-tax-saving-in-nepal-strategies" className="text-primary hover:underline font-medium">Top Tax Saving Strategies for Businesses in Nepal</Link>.</p>
         
@@ -98,7 +98,7 @@ export const blogPosts: BlogPostData[] = [
     ),
     faqs: [
       { question: "What is the minimum taxable bracket for income tax in Nepal in 2024?", answer: "For the fiscal year 2080/81 (2023-2024), the basic exemption bracket generating a 1% social security tax is NPR 5,00,000 for unmarried individuals and NPR 6,00,000 for married couples." },
-      { question: "Are remittances from abroad subjected to tax in Nepal?", answer: "If the income sent back to Nepal has already been taxed at the source and the earner is classified as a non-resident for tax purposes, it is generally not doubly taxed. Always consult a tax professional for specific conditions. You can contact Tax Clarity Nepal for an exact assessment of your global income." },
+      { question: "Are remittances from abroad subjected to tax in Nepal?", answer: "If the income sent back to Nepal has already been taxed at the source and the earner is classified as a non-resident for tax purposes, it is generally not doubly taxed. Always consult a tax professional for specific conditions. You can contact TaxCare Nepal for an exact assessment of your global income." },
       { question: "Is the 1% Social Security Tax mandatory for calculating personal tax in Nepal?", answer: "Yes, the 1% tax is mandatory for salaried individuals unless they are contributing to an approved setup like the Citizen Investment Trust (CIT) and qualify for exemptions. Contact us to set up your tax-saving retirement funds." }
     ]
   },
@@ -121,7 +121,7 @@ export const blogPosts: BlogPostData[] = [
         <ContactCTA text="We provide 100% turnkey hassle-free Company Registration services in Nepal." label="Start Your Company" />
         
         <h3 className="text-2xl font-bold mt-8 mb-4">Crucial Documents for Company Registration in Nepal</h3>
-        <p>Failing to draft proper Memorandums of Association (MOA) can restrict what your business is legally allowed to do. Instead of relying on generic templates, <Link to="/contact" className="text-primary font-bold hover:underline">contact Tax Clarity Nepal</Link> for custom-drafted corporate documentation.</p>
+        <p>Failing to draft proper Memorandums of Association (MOA) can restrict what your business is legally allowed to do. Instead of relying on generic templates, <Link to="/contact" className="text-primary font-bold hover:underline">contact TaxCare Nepal</Link> for custom-drafted corporate documentation.</p>
         <ul className="list-disc pl-6 space-y-2 text-muted-foreground border-l-2 border-primary/30 ml-2">
           <li>Notarized Citizenship certificates of all proposed promoters.</li>
           <li>A pre-approved unique company name from the OCR portal.</li>
@@ -174,7 +174,7 @@ export const blogPosts: BlogPostData[] = [
         
         <p>Properly managing VAT schedules is crucial to avoiding the compounded 25% penalty. Keep your accounting streamlined, as missed VAT deadlines complicate the routine outlined in our <Link to="/resources/corporate-compliance-renewal-nepal" className="text-primary hover:underline font-medium">Company Renewal and Tax Compliance Checklist</Link>.</p>
         
-        <ContactCTA text="Are your monthly VAT returns causing you headaches? Outsource your entire VAT accounting to Tax Clarity Nepal." label="Talk to a VAT Expert" />
+        <ContactCTA text="Are your monthly VAT returns causing you headaches? Outsource your entire VAT accounting to TaxCare Nepal." label="Talk to a VAT Expert" />
         
         <h3 className="text-2xl font-bold mt-8 mb-4">Mandatory VAT Thresholds defining Tax in Nepal</h3>
         <p className="text-muted-foreground mb-4">If you are unsure whether your specific services fall under mandatory VAT, <Link to="/contact" className="text-primary font-bold hover:underline">reach out to us for a free status evaluation</Link>.</p>
@@ -235,7 +235,7 @@ export const blogPosts: BlogPostData[] = [
       </div>
     ),
     faqs: [
-      { question: "Is tax evasion penalized heavily in Nepal?", answer: "Yes. Willful evasion of tax in Nepal triggers penalties up to 100% of the evaded tax amount plus compound interest alongside potential imprisonment. This is why aggressive but legal tax planning via licensed professionals like Tax Clarity Nepal is strictly recommended. Contact us to stay legally safe." },
+      { question: "Is tax evasion penalized heavily in Nepal?", answer: "Yes. Willful evasion of tax in Nepal triggers penalties up to 100% of the evaded tax amount plus compound interest alongside potential imprisonment. This is why aggressive but legal tax planning via licensed professionals like TaxCare Nepal is strictly recommended. Contact us to stay legally safe." },
       { question: "Can I deduct medical insurance premiums from my tax bracket?", answer: "Yes, under current regulations for income tax in Nepal, claiming health insurance premium amounts up to NPR 20,000 provides relief on total taxable income. Want to optimize your personal tax returns? Contact our team." }
     ]
   },
@@ -281,7 +281,7 @@ export const blogPosts: BlogPostData[] = [
       </div>
     ),
     faqs: [
-      { question: "When exactly is the threshold deadline to file TDS for tax in Nepal?", answer: "The withheld TDS amount is required to be transmitted alongside an E-TDS filing within the 25th parameter of the immediate next Nepalese month. Reach out to Tax Clarity Nepal if you have backdated unfiled TDS to mitigate penalty damages." },
+      { question: "When exactly is the threshold deadline to file TDS for tax in Nepal?", answer: "The withheld TDS amount is required to be transmitted alongside an E-TDS filing within the 25th parameter of the immediate next Nepalese month. Reach out to TaxCare Nepal if you have backdated unfiled TDS to mitigate penalty damages." },
       { question: "How does TDS affect final tax returns?", answer: "TDS represents advance tax payments. When calculating final annual tax in Nepal, any previously submitted TDS is deducted from your gross payable tax load. If you overpaid, we can help you process your tax refund—contact us today." }
     ]
   },
@@ -304,7 +304,7 @@ export const blogPosts: BlogPostData[] = [
         <ContactCTA text="Say goodbye to regulatory anxiety. We act as your Company Secretary, managing all OCR and IRD renewals." label="Get Compliance Secure" />
         
         <h3 className="text-2xl font-bold mt-8 mb-4">Definitive Annual Submission Checklist</h3>
-        <p className="text-muted-foreground mb-4">You do not have to tackle this alone. <Link to="/contact" className="text-primary font-bold hover:underline">Contact Tax Clarity Nepal</Link> and we will execute this exact checklist for your business on autopilot every year.</p>
+        <p className="text-muted-foreground mb-4">You do not have to tackle this alone. <Link to="/contact" className="text-primary font-bold hover:underline">Contact TaxCare Nepal</Link> and we will execute this exact checklist for your business on autopilot every year.</p>
         <ul className="list-disc pl-6 space-y-3 text-muted-foreground border-l-2 border-primary/30 ml-2 py-2">
           <li><strong>Auditor Appointment:</strong> Forward auditor appointment confirmation to the OCR precisely within 6 months succeeding the previous AGM. (<Link to="/contact" className="text-primary hover:underline">Need a registered auditor? Contact us.</Link>)</li>
           <li><strong>Audit Finalization:</strong> Finalize audited financial statements and digitally file to both OCR and IRD prior to the climax of Poush (mid-January).</li>
@@ -467,7 +467,7 @@ export const blogPosts: BlogPostData[] = [
           <li><strong>Step 4:</strong> Safely securely log inside ConnectIPS protocol parameters; authorizing exact bank mappings transferring funds into sovereign bank terminals completely.</li>
         </ul>
         
-        <ContactCTA text="Modernize your financial operations with absolutely no effort. Contact Tax Clarity Nepal to take over your tax payments." label="Outsource Your Tax Desk" />
+        <ContactCTA text="Modernize your financial operations with absolutely no effort. Contact TaxCare Nepal to take over your tax payments." label="Outsource Your Tax Desk" />
       </div>
     ),
     faqs: [

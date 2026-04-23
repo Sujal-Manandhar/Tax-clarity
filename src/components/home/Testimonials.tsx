@@ -30,7 +30,7 @@ const testimonials: Testimonial[] = [
     role: "SME Owner",
     company: "Sharma Traders Pvt. Ltd.",
     quote:
-      "Tax Clarity Nepal made our VAT filings simple and always on time. Their team is professional and really understands Nepal's tax requirements.",
+      "TaxCare Nepal made our VAT filings simple and always on time. Their team is professional and really understands Nepal's tax requirements.",
     rating: 5,
     avatarColor: "bg-blue-500",
     image: null,
@@ -56,7 +56,7 @@ const testimonials: Testimonial[] = [
     role: "Manager",
     company: "Dakshina Oil Factory",
     quote:
-      "I used to stress about tax deadlines every month. Now with Tax Clarity Nepal handling everything, I can focus on my business with peace of mind.",
+      "I used to stress about tax deadlines every month. Now with TaxCare Nepal handling everything, I can focus on my business with peace of mind.",
     rating: 4.5,
     avatarColor: "bg-orange-500",
     image: "/avatars/sj.png",
@@ -69,7 +69,7 @@ const testimonials: Testimonial[] = [
     role: "Freelance Consultant",
     company: "Independent",
     quote:
-      "As a freelancer, understanding personal tax was overwhelming. Tax Clarity Nepal broke it all down for me and helped me file correctly for the first time.",
+      "As a freelancer, understanding personal tax was overwhelming. TaxCare Nepal broke it all down for me and helped me file correctly for the first time.",
     rating: 4,
     avatarColor: "bg-violet-500",
     image: null,

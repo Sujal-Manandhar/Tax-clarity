@@ -18,7 +18,7 @@ const Footer = () => {
                 <span className="text-lg font-bold text-white">TC</span>
               </div>
               <div>
-                <div className="font-bold text-white leading-tight">Tax Clarity Nepal</div>
+                <div className="font-bold text-white leading-tight">TaxCare Nepal</div>
                 <div className="text-xs text-white/60">Kathmandu, Nepal</div>
               </div>
             </Link>
@@ -37,7 +37,7 @@ const Footer = () => {
                 <Facebook className="h-4 w-4" />
               </a>
               <a
-                href="https://linkedin.com/company/taxclaritynepal"
+                href="https://linkedin.com/company/TaxCarenepal"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
@@ -46,7 +46,7 @@ const Footer = () => {
                 <Linkedin className="h-4 w-4" />
               </a>
               <a
-                href="https://youtube.com/@taxclaritynepal"
+                href="https://youtube.com/@TaxCarenepal"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="YouTube"
@@ -55,7 +55,7 @@ const Footer = () => {
                 <Youtube className="h-4 w-4" />
               </a>
               <a
-                href="https://taxclarity.com.np"
+                href="https://TaxCare.com.np"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Website"
@@ -131,8 +131,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2.5">
                 <Mail className="h-4 w-4 flex-shrink-0 text-yellow-400" />
-                <a href="mailto:info@taxclarity.com.np" className="text-sm text-white/70 transition-colors hover:text-white">
-                  info@taxclarity.com.np
+                <a href="mailto:info@TaxCare.com.np" className="text-sm text-white/70 transition-colors hover:text-white">
+                  info@TaxCare.com.np
                 </a>
               </li>
             </ul>
@@ -151,7 +151,7 @@ const Footer = () => {
         <div className="container-custom py-5">
           <div className="flex flex-col items-center justify-between gap-3 md:flex-row">
             <p className="text-xs text-white/50">
-              &copy; {currentYear} Tax Clarity Nepal. All rights reserved. · IRD Registered · CA Nepal Member
+              &copy; {currentYear} TaxCare Nepal. All rights reserved. · IRD Registered · CA Nepal Member
             </p>
             <div className="flex items-center gap-5">
               <Link to="/privacy-policy" className="text-xs text-white/50 transition-colors hover:text-white">
@@ -160,7 +160,7 @@ const Footer = () => {
               <Link to="/terms" className="text-xs text-white/50 transition-colors hover:text-white">
                 Terms of Service
               </Link>
-              <span className="text-xs text-white/30">🇳🇵 Made in Nepal</span>
+              <span className="text-xs text-white/30">TaxCare Nepal — Trusted Partner</span>
             </div>
           </div>
         </div>

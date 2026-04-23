@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /resources/
+Allow: /services/
+Allow: /contact/
+Allow: /about/
+Allow: /faq/
+Disallow: /*?*
+
+# Explicitly disallow bots from crawling non-existent paths or internal search queries
+Disallow: /search/
+Disallow: /admin/
+Disallow: /login/
+
+# Link to the sitemap to ensure search engines find all high-priority SEO pages
+Sitemap: https://www.TaxCare.com.np/sitemap.xml

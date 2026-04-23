@@ -21,14 +21,14 @@ const Terms = () => {
               <section>
                 <h2 className="text-xl font-semibold text-foreground">1. Introduction</h2>
                 <p className="mt-4 text-muted-foreground leading-relaxed">
-                  Welcome to Tax Clarity Nepal. By accessing our website and using our services, you agree to be bound by these Terms of Service. Please read them carefully.
+                  Welcome to TaxCare Nepal. By accessing our website and using our services, you agree to be bound by these Terms of Service. Please read them carefully.
                 </p>
               </section>
 
               <section>
                 <h2 className="text-xl font-semibold text-foreground">2. Services Provided</h2>
                 <p className="mt-4 text-muted-foreground leading-relaxed">
-                  Tax Clarity Nepal provides tax consultation, accounting, bookkeeping, auditing, company registration, and related financial advisory services. The specific scope of services for each client will be defined in a separate engagement letter or service agreement.
+                  TaxCare Nepal provides tax consultation, accounting, bookkeeping, auditing, company registration, and related financial advisory services. The specific scope of services for each client will be defined in a separate engagement letter or service agreement.
                 </p>
               </section>
 

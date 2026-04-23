@@ -93,7 +93,7 @@ const About = () => {
             <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm text-white/80">
               Est. 2014 · Kathmandu, Nepal
             </div>
-            <h1 className="mb-4 text-4xl font-bold text-white md:text-5xl">About Tax Clarity Nepal</h1>
+            <h1 className="mb-4 text-4xl font-bold text-white md:text-5xl">About TaxCare Nepal</h1>
             <p className="text-lg text-white/80">
               A decade of trusted tax, accounting, and compliance expertise — built on integrity, accuracy, and an unwavering commitment to our clients.
             </p>
@@ -116,10 +116,10 @@ const About = () => {
                 In 2014, Rajendra K.C. — a Chartered Accountant with a decade of experience at major Nepali audit firms — noticed a gap: Nepal's small business owners were paying unnecessary penalties, missing deadlines, and overpaying taxes simply because they lacked access to affordable professional help.
               </p>
               <p className="mb-4 text-muted-foreground">
-                He founded Tax Clarity Nepal with a straightforward mission: make tax and compliance simple, affordable, and genuinely stress-free for every individual and business in Nepal. No jargon, no surprises — just clear, expert guidance.
+                He founded TaxCare Nepal with a straightforward mission: make tax and compliance simple, affordable, and genuinely stress-free for every individual and business in Nepal. No jargon, no surprises — just clear, expert guidance.
               </p>
               <p className="mb-6 text-muted-foreground">
-                A decade later, that mission still drives everything we do. From a solo practice in Putalisadak to a team of 8 professionals serving 500+ clients nationwide, Tax Clarity Nepal has grown into one of Kathmandu's most trusted accounting firms.
+                A decade later, that mission still drives everything we do. From a solo practice in Putalisadak to a team of 8 professionals serving 500+ clients nationwide, TaxCare Nepal has grown into one of Kathmandu's most trusted accounting firms.
               </p>
               <Button asChild className="gap-2">
                 <Link to="/contact">Work With Us</Link>
@@ -295,7 +295,7 @@ const About = () => {
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="mb-4 text-3xl font-bold text-white">Ready to Work With Us?</h2>
             <p className="mb-8 text-lg text-white/80">
-              Join 500+ businesses and individuals who trust Tax Clarity Nepal with their finances.
+              Join 500+ businesses and individuals who trust TaxCare Nepal with their finances.
             </p>
             <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
               <Button asChild size="lg" className="gap-2 bg-yellow-400 font-semibold text-gray-900 hover:bg-yellow-300">

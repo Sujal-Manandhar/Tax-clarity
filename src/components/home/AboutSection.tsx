@@ -41,14 +41,14 @@ const AboutSection = () => {
           {/* Right: Content */}
           <div className={`animate-on-scroll order-1 lg:order-2 ${isVisible ? "visible" : ""}`}>
             <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-1.5 text-sm font-medium text-primary">
-              About Tax Clarity Nepal
+              About TaxCare Nepal
             </div>
             <h2 className="mb-5 text-3xl font-bold text-foreground md:text-4xl">
               Nepal's Trusted Partner in{" "}
               <span className="text-primary">Tax & Compliance</span>
             </h2>
             <p className="mb-4 text-muted-foreground">
-              Founded by seasoned Chartered Accountants, Tax Clarity Nepal was built on one mission: 
+              Founded by seasoned Chartered Accountants, TaxCare Nepal was built on one mission: 
               making tax and financial compliance straightforward for every Nepali business and individual.
             </p>
             <p className="mb-6 text-muted-foreground">

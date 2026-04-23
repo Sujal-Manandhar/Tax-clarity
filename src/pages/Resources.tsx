@@ -8,7 +8,7 @@ import { blogPosts as BLOG_POSTS } from "@/data/blogPosts";
 
 const Resources = () => {
   useEffect(() => {
-    document.title = "Tax Resources & Blog | Tax Clarity Nepal";
+    document.title = "Tax Resources & Blog | TaxCare Nepal";
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
       metaDescription.setAttribute("content", "Expert tax guides, compliance updates, and business tips for individuals and companies in Nepal.");
@@ -45,7 +45,7 @@ const Resources = () => {
               <div className="mb-6 lg:w-1/2 lg:mb-0">
                 <div className="aspect-[16/9] w-full items-center justify-center rounded-xl bg-primary/10 flex p-8 text-center overflow-hidden relative group">
                    <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-primary/5 to-secondary/20 opacity-80 transition-transform duration-500 group-hover:scale-105" />
-                   <h3 className="text-2xl md:text-3xl font-bold text-primary relative z-10 shrink-0 select-none">Tax Clarity Highlights</h3>
+                   <h3 className="text-2xl md:text-3xl font-bold text-primary relative z-10 shrink-0 select-none">TaxCare Highlights</h3>
                 </div>
               </div>
               <div className="lg:w-1/2">

@@ -13,7 +13,7 @@ const BlogPost = () => {
   }
 
   useEffect(() => {
-    document.title = `${post.title} | Tax Clarity Nepal`;
+    document.title = `${post.title} | TaxCare Nepal`;
     
     const setMetaTag = (selector: string, attribute: string, value: string) => {
       let element = document.querySelector(selector);
@@ -37,7 +37,7 @@ const BlogPost = () => {
     setMetaTag('meta[property="og:title"]', 'content', post.title);
     setMetaTag('meta[property="og:description"]', 'content', post.excerpt);
     setMetaTag('meta[property="og:url"]', 'content', window.location.href);
-    setMetaTag('meta[property="og:site_name"]', 'content', 'Tax Clarity Nepal');
+    setMetaTag('meta[property="og:site_name"]', 'content', 'TaxCare Nepal');
     
     // Twitter
     setMetaTag('meta[name="twitter:card"]', 'content', 'summary_large_image');
@@ -71,7 +71,7 @@ const BlogPost = () => {
     "datePublished": new Date(post.date).toISOString(),
     "author": {
       "@type": "Organization",
-      "name": "Tax Clarity Nepal"
+      "name": "TaxCare Nepal"
     }
   };
 

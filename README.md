@@ -1,6 +1,6 @@
-# Tax Clarity Nepal - Hybrid React/WordPress Theme
+# TaxCare Nepal - Hybrid React/WordPress Theme
 
-Tax Clarity Nepal is a specialized tax, accounting, and compliance services landing page designed for businesses in Nepal. 
+TaxCare Nepal is a specialized tax, accounting, and compliance services landing page designed for businesses in Nepal. 
 
 This repository contains an advanced **Hybrid Headless Architecture**. It features a blazing-fast Single Page Application (SPA) built with React, Vite, and Tailwind CSS, all seamlessly bundled into an installable **WordPress Theme** so you retain full control over your backend via `wp-admin`.
 
@@ -78,4 +78,4 @@ Once deployed, the `fetchWordPressPosts()` function can be securely utilized glo
 
 ---
 
-*Property of Tax Clarity Nepal.*
+*Property of TaxCare Nepal.*

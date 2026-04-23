@@ -185,7 +185,7 @@ const ChatWidget = () => {
       case "GREETING":
         sendMessages(
           [
-            "👋 Hello! I'm TC, the Tax Clarity Nepal virtual assistant.",
+            "👋 Hello! I'm TC, the TaxCare Nepal virtual assistant.",
             "I can help with tax filing, deadlines, service information, and Nepal-specific tax questions. What can I help you with today?",
           ],
           () => setReplies(MAIN_MENU)
@@ -472,7 +472,7 @@ const ChatWidget = () => {
       `Chatbot Enquiry from ${data.name || "Visitor"} — ${data.service || "General"}`
     );
     const body = encodeURIComponent(
-      `New consultation request via Tax Clarity Nepal chatbot:\n\n` +
+      `New consultation request via TaxCare Nepal chatbot:\n\n` +
         `Name: ${data.name || "Not provided"}\n` +
         `Email: ${data.email || "Not provided"}\n` +
         `Phone: ${data.phone || "Not provided"}\n` +
@@ -484,11 +484,11 @@ const ChatWidget = () => {
       [
         `Thank you, ${data.name}! 🎉 We have your details and will reach out within 24 business hours.`,
         "Your email client will open now to confirm — please hit Send to complete your enquiry.",
-        "📞 For urgent help: +977 9823405140 | info@taxclarity.com.np",
+        "📞 For urgent help: +977 9823405140 | info@TaxCare.com.np",
       ],
       () => {
         window.open(
-          `mailto:info@taxclarity.com.np?subject=${subject}&body=${body}`
+          `mailto:info@TaxCare.com.np?subject=${subject}&body=${body}`
         );
         setReplies([
           { label: "← Back to main menu", action: "MAIN_MENU" },
@@ -578,7 +578,7 @@ const ChatWidget = () => {
               <span className="text-sm font-bold text-white">TC</span>
             </div>
             <div>
-              <div className="text-sm font-semibold text-white">Tax Clarity Nepal</div>
+              <div className="text-sm font-semibold text-white">TaxCare Nepal</div>
               <div className="flex items-center gap-1 text-xs text-white/70">
                 <span className="h-1.5 w-1.5 rounded-full bg-green-400" />
                 Assistant · Sun–Fri 10AM–6PM
@@ -719,7 +719,7 @@ const ChatWidget = () => {
       {/* Toggle button */}
       <button
         onClick={() => setOpen((v) => !v)}
-        aria-label={open ? "Close chat" : "Open Tax Clarity Nepal chat assistant"}
+        aria-label={open ? "Close chat" : "Open TaxCare Nepal chat assistant"}
         className={`flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-lg transition-all duration-300 hover:bg-primary/90 hover:scale-110 active:scale-95 ${
           open ? "rotate-90" : ""
         }`}

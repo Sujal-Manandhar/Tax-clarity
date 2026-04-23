@@ -3,7 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* Tax Clarity Nepal Design System
+/* TaxCare Nepal Design System
    Primary: Navy Blue #1E3A8A
    Secondary: Green #16A34A
    Accent: Light Gray #F3F4F6
@@ -199,5 +199,51 @@
   .mobile-nav-item.visible {
     opacity: 1;
     transform: translateX(0);
+  }
+
+  /* Print Utilities */
+  @media print {
+    .print-hidden, 
+    header, 
+    footer, 
+    #colophon, 
+    .section-padding:not(#tax-calculator),
+    #mobile-menu-toggle,
+    #mobile-drawer,
+    #drawer-backdrop {
+      display: none !important;
+    }
+
+    body, html {
+      background: white !important;
+      color: black !important;
+      height: auto !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: visible !important;
+    }
+
+    #tax-calculator {
+      padding: 0 !important;
+      margin: 0 !important;
+      background: white !important;
+    }
+
+    .container-custom {
+      max-width: 100% !important;
+      width: 100% !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    .grid {
+      display: block !important;
+    }
+
+    /* Prevent page breaks inside cards */
+    .card, .rounded-xl, .rounded-2xl {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
   }
 }

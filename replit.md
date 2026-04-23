@@ -1,4 +1,4 @@
-# Tax Clarity Nepal
+# TaxCare Nepal
 
 A modern React SPA landing page for tax, accounting, and compliance services in Nepal.
 

@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
               <section>
                 <h2 className="text-xl font-semibold text-foreground">1. Introduction</h2>
                 <p className="mt-4 text-muted-foreground leading-relaxed">
-                  Tax Clarity Nepal ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our professional services.
+                  TaxCare Nepal ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our professional services.
                 </p>
               </section>
 
@@ -82,7 +82,7 @@ const PrivacyPolicy = () => {
                 <p className="mt-4 text-muted-foreground leading-relaxed">
                   If you have questions or concerns about this Privacy Policy, please contact us at: <br />
                   <br />
-                  <strong>Email:</strong> info@taxclarity.com.np <br />
+                  <strong>Email:</strong> info@TaxCare.com.np <br />
                   <strong>Phone:</strong> +9779823405140
                 </p>
               </section>

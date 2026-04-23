@@ -7,6 +7,7 @@ export default {
     "./components/**/*.{ts,tsx}",
     "./app/**/*.{ts,tsx}",
     "./src/**/*.{ts,tsx}",
+    "./taxcare-nepal-theme/**/*.php",
   ],
   prefix: "",
   theme: {
